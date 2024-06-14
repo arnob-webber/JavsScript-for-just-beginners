@@ -6,7 +6,7 @@ do {
 } while (x < 10); /*ondition part*/
 
 let y = 4 % 2;
-let z = 2 * 3;
+let z = 3 * 2;
 
 do {
   y++;
