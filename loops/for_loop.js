@@ -6,6 +6,7 @@ for (let a = 1; a <= 10; a++) {
 /* 1 initialization  part */
 /* 2 condition  part */
 /* 3 increment or decrement  part */
+// 4 code block to be executed
 
 let b;
 for (b = 1; b < 5; b++) {
