@@ -1,5 +1,5 @@
 const food = ["beef curry", "biriyani", "egg fry"];
-
-for ( let myFood in food) {
+let myFood
+for ( myFood in food) {
   console.log(food[myFood]);
 }
